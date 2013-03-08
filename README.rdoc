@@ -1,3 +1,8 @@
+NOTE
+
+KCSDB is now called Cloud System Deployment and Experiment (CSDE) Tool and being developed in
+ https://github.com/myownthemepark/csde
+
 = KIT Cloud Serving Deployment and Benchmark
 
 = DESCRIPTION
