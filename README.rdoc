@@ -17,7 +17,7 @@ However, like any software on the earth, written by human, there may be bugs and
 
 = MINI DEMO
 
- https://s3.amazonaws.com/kcsdb-init/KCSDB-Mini-Demo.mov
+ https://www.dropbox.com/s/0pads9cdjffbu89/KCSDB-Mini-Demo.mov?dl=0
 
 = INSTALLATION
 
